@@ -1,0 +1,14 @@
+{
+  "name": "omron-blink-csv-util",
+  "version": "1.0.0",
+  "description": "Personal utility to transcribe data from Omron Blink exporter",
+  "main": "omron-blink-2019-09.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G. Gauthier",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.1.0"
+  }
+}
